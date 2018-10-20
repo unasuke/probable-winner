@@ -22,3 +22,6 @@ tmp/*
 
 .byebug_history
 
+toy_app/log/*
+toy_app/db/*.sqlite3
+toy_app/db/*.sqlite3-journal
