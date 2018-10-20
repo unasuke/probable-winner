@@ -26,3 +26,8 @@ toy_app/log/*
 toy_app/db/*.sqlite3
 toy_app/db/*.sqlite3-journal
 toy_app/tmp/*
+
+sample_app/log/*
+sample_app/db/*.sqlite3
+sample_app/db/*.sqlite3-journal
+sample_app/tmp/*
